@@ -1,0 +1,14 @@
+*.docx
+*.pptx
+*.pdf
+*.xlsx
+*.pages
+*.png
+*.jpg
+*.jpeg
+*.zip
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+Datasets/
+Presentacion_Clustering/
