@@ -1,6 +1,6 @@
 # Inteligencia Artificial, 1° cuatrimestre MCID
 
-Ejercicios de la materia Inteligencia Artificial, Maestría en Ciencias e Ingeniería de Datos (MCID).
+Ejercicios de la materia Inteligencia Artificial, Maestría en Ciencias e Ingeniería de Datos (MCID, FIC-UAT).
 
 ## Contenido
 
